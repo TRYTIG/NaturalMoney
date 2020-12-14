@@ -1,0 +1,8 @@
+name: NaturalMoney
+version: @version@
+main: com.trytig.naturalmoney.NaturalMoney
+api-version: 1.16
+depend: [ Vault ]
+authors: [ TRYTIG ]
+description: Natural Money
+website: https://trytig.com
